@@ -1,0 +1,45 @@
+
+Slide 1: Introduction
+
+Title: MongoDB vs SQL: A Comparison
+Briefly introduce the topic of comparing MongoDB and SQL databases.
+Mention that MongoDB is a NoSQL database, while SQL represents a category of relational databases.
+State the objective of the presentation: to compare the features and functionalities of MongoDB and SQL.
+Slide 2: MongoDB
+
+Title: MongoDB (NoSQL)
+Explain the concept of NoSQL databases.
+Describe MongoDB as a popular NoSQL database.
+Highlight the key features and functionalities of MongoDB, such as:
+Document-based data model
+Flexible schema
+Scalability and high performance
+Rich query capabilities (including support for indexing and aggregation)
+Horizontal scaling and sharding
+Slide 3: SQL (Relational Databases)
+
+Title: SQL (Relational Databases)
+Introduce SQL as a category of relational databases.
+Explain the key characteristics of SQL databases, including:
+Tabular data model with tables, columns, and rows
+Structured schema with predefined data types
+ACID (Atomicity, Consistency, Isolation, Durability) properties
+Well-established and mature technology
+Support for complex joins and relationships between tables
+Slide 4: Comparison: MongoDB vs SQL
+
+Title: Comparison: MongoDB vs SQL
+Present a table or a visual representation to compare MongoDB and SQL in various aspects, such as:
+Data model: Document-based vs Tabular
+Schema: Flexible vs Structured
+Scalability: Horizontal scaling vs Vertical scaling
+Querying: Rich querying capabilities vs Complex joins
+ACID properties: Eventual consistency vs Strong consistency
+Use cases: Flexible data structures, unstructured data vs Structured and well-defined data
+
+
+
+
+
+
+
